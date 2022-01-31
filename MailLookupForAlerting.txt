@@ -1,0 +1,3 @@
+domainDN,domainFQDN,mailServer,emailTo,emailCC
+"DC=lab1,DC=local",lab3.local,mail-111.domain.local,mailadmins@domain123.com,helpdesk@domain123.com
+"DC=lab4,DC=local",lab4.local,mail-222.domain.local,mailadmins@domain456.com,helpdesk@domain456.com
